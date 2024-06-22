@@ -1,20 +1,20 @@
 # intrapair_mobile_apt_test
 
-A new Flutter project.
+## Task Description
+During the test, I accomplished the following:
 
-## Getting Started
+1. **UI Design**: Created three visually appealing and user-friendly screens for a mobile application. The design focused on aesthetics and usability, ensuring a seamless user experience.
 
-This project is a starting point for a Flutter application.
+2. **API Integration**: Successfully integrated an API that retrieves a comprehensive JSON list of all countries. This involved making network requests and handling the data efficiently.
 
-A few resources to get you started if this is your first Flutter project:
+3. **Search Functionality**: Implemented a robust search feature that allows users to search for specific countries from the retrieved list. The search functionality is optimized for quick and accurate results.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+These tasks demonstrate my ability to design intuitive user interfaces, integrate external APIs, and implement essential application features effectively.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Here are screenshots of the project:
 
-Here is an image from my project:
-
-![Interface Screenshot](Screenshot_1.jpg)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+  <img src="Screenshot_1.jpg" alt="Interface 1" style="width: 32%; margin-bottom: 10px;">
+  <img src="Screenshot_2.jpg" alt="Interface 2" style="width: 32%; margin-bottom: 10px;">
+  <img src="Screenshot_3.jpg" alt="Interface 3" style="width: 32%; margin-bottom: 10px;">
+</div>
